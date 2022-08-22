@@ -12,7 +12,7 @@ import com.cognizant.pms.processpension.exception.ProcessPensionException;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author Suman Chakraborty
+ * @author Sinjon Nath
  *
  */
 @Slf4j

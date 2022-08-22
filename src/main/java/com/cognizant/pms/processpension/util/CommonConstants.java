@@ -4,7 +4,7 @@
 package com.cognizant.pms.processpension.util;
 
 /**
- * @author Suman Chakraborty
+ * @author Sinjon Nath
  *
  */
 public class CommonConstants {
